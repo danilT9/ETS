@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+	<title>Новый проект</title>
+	<defs>
+		<image width="960" height="960" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNDhweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSI0OHB4IiBmaWxsPSIjZWNlY2VjIj48cGF0aCBkPSJtNDQzLTM3OSA3NC0xMDEgNzMgMTAxIDExNi0xNTgtNDgtMzUtNjggOTItNzQtMTAxLTczIDEwMS03NC0xMDEtMTE1IDE1OCA0OCAzNSA2Ny05MiA3NCAxMDFabTM3IDI5OXEtODIgMC0xNTUtMzEuNXQtMTI3LjUtODZRMTQzLTI1MiAxMTEuNS0zMjVUODAtNDgwcTAtODMgMzEuNS0xNTZ0ODYtMTI3UTI1Mi04MTcgMzI1LTg0OC41VDQ4MC04ODBxODMgMCAxNTYgMzEuNVQ3NjMtNzYzcTU0IDU0IDg1LjUgMTI3VDg4MC00ODBxMCA4Mi0zMS41IDE1NVQ3NjMtMTk3LjVxLTU0IDU0LjUtMTI3IDg2VDQ4MC04MFptMC02MHExNDIgMCAyNDEtOTkuNVQ4MjAtNDgwcTAtMTQyLTk5LTI0MXQtMjQxLTk5cS0xNDEgMC0yNDAuNSA5OVQxNDAtNDgwcTAgMTQxIDk5LjUgMjQwLjVUNDgwLTE0MFptMC0zNDBaIi8+PC9zdmc+"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 257px;fill: #ececec;font-weight: 400;font-family: "Actor-Regular", "Actor" } 
+	</style>
+	<use id="icon" href="#img1" transform="matrix(.559,0,0,.559,0,51.5)"/>
+	<text id="Text layer 2" style="transform: matrix(1,0,0,1,575.478,412.263)" >
+		<tspan x="0" y="0" class="t0">E</tspan><tspan  y="0" class="t0">r</tspan><tspan  y="0" class="t0">r</tspan><tspan  y="0" class="t0">o</tspan><tspan  y="0" class="t0">r
+</tspan>
+	</text>
+</svg>
